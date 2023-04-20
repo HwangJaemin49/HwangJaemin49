@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangJaemin49&show_icons=true&theme=radical)
