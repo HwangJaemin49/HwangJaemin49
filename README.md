@@ -13,8 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.instagram.com/jmhwang49/">
-    <img 
-        src="http://img.shields.io/badge/#E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/jmhwang49/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangJaemin49&show_icons=true&theme=radical)
