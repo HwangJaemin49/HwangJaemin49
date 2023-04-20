@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 📚 Skills
 - Programming
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+&#9;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 ![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangJaemin49&show_icons=true&theme=radical)
