@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 📚 <b>Experienced</b><br>
 <img src="https://img.shields.io/badge/yolo-00FFFF?style=for-the-badge&logo=yolo&logoColor=white">
 <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-<br><br>
-![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangJaemin49&show_icons=true&theme=radical)
